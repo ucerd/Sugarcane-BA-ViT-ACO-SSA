@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Credentials
+.env
+.env.*
+*.pem
+
+# Downloaded datasets
+/datasets/
+/downloads/
+*.zip
+
+# Generated experiment outputs
+/outputs/
+/checkpoints/
+/results/
+
+# Large model files
+*.pth
+*.pt
+*.onnx
+
+# IDE
+.vscode/
+.idea/

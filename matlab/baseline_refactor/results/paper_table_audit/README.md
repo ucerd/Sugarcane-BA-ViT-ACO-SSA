@@ -1,0 +1,1 @@
+Arithmetic-only results independently computed in Python from the manuscript Table 4. Not new training results or recovered per-image predictions. The MATLAB audit script is intended to calculate the same numbers.

@@ -1,0 +1,7 @@
+*.asv
+*.mex*
+*.mat
+/data/experiment_manifest.csv
+/data/images/
+/results/*
+!/results/paper_table_audit/

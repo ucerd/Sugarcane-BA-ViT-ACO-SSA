@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Cite Sugarcane-PK v1.0 and the associated manuscript; this reference package is pending author approval."
+title: "Bud-Based Sugarcane Variety Identification Using a Bud Attention Vision Transformer and Hybrid ACO–SSA Feature Selection: Reference Reproducibility Package"
+authors:
+  - family-names: Hussain
+    given-names: Tassadaq
+  - family-names: Alharbi
+    given-names: Soltan
+  - family-names: Bano
+    given-names: Mukhtiar
+  - family-names: Tan
+    given-names: Kim Geok
+version: "0.1.0-author-review"
+references:
+  - type: data
+    title: "Sugarcane-PK v1.0: A Scale-Referenced Dataset and MATLAB Implementation for Precision Phenotyping of Pakistani Sugarcane Varieties"
+    authors:
+      - family-names: Hussain
+        given-names: Tassadaq
+    year: 2026
+    doi: 10.5281/zenodo.18619387
